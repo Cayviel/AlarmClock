@@ -1,0 +1,10 @@
+name: AlarmClock
+main: com.Cayviel.AlarmClock.AlarmClock
+version: 1.1
+commands:
+  alarmclock:
+    aliases: [ac, alarm, clock, setac, setalarm, setclock, setalarmclock]
+    usage: /<command> [time]
+  getalarmclock:
+    aliases: [getac, getalarm, getclock]
+    usage: /<command>    
